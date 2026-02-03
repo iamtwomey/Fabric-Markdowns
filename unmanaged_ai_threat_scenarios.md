@@ -1,7 +1,7 @@
 # MODEL AND PROMPT
 
-- Model: Gemini-Latest-Flash
-- Prompt: "the business allows for usage of unmanaged ai use."
+- **Model**: Gemini-Latest-Flash
+- **Prompt**: "the business allows for usage of unmanaged ai use."
 
 # THREAT SCENARIOS
 
@@ -35,7 +35,7 @@
 - Establish clear data classification standards to guide employees on appropriate AI tool usage.
 - Review and update regulatory compliance frameworks regarding third-party data processing obligations.
 
-Note: The scenario regarding a major AI vendor security breach does not have an associated control here because this is an extremely high-impact, low-likelihood event that is difficult for a single business to mitigate directly. The best defense is the control listed above—limiting the sensitive data exposed to the vendor in the first place.
+**Note**: The scenario regarding a major AI vendor security breach does not have an associated control here because this is an extremely high-impact, low-likelihood event that is difficult for a single business to mitigate directly. The best defense is the control listed above—limiting the sensitive data exposed to the vendor in the first place.
 
 # NARRATIVE ANALYSIS
 
@@ -49,4 +49,4 @@ Unmanaged AI risk is driven by employee data input errors, demanding policy, edu
 
 # PERSONAL THOUGHTS GAINED FROM REVIEW OF THE ABOVE
 
-Mike here. This was my first test run of Fabric after setting it up. In preparation for pivoting into a GRC role, I stumbled across a video of the Simply Cyber folks (particularly Steve McMichael) using Miessler's Fabric tool to help accelerate their GRC work. Using the "create_threat_scenario" pattern, I was able to generate the above. The use case for this would be to help catch blind spots that I may have when reviewing how the business handles unmanaged ai usage by end-users while on personal accounts at work. 
+Mike here. This was my first test run of Fabric after setting it up. In preparation for pivoting into a GRC role, I stumbled across a video of the Simply Cyber folks (particularly Steve McMichael) using Miessler's Fabric tool to help accelerate their GRC work. Using the **create_threat_scenario** pattern, I was able to generate the above. The use case for this would be to help catch blind spots that I may have when reviewing how the business handles unmanaged ai usage by end-users while on personal accounts at work. 
