@@ -1,3 +1,6 @@
+# MODEL AND PROMPT
+-# Model: Gemini-Latest-Flash | Prompt: "the business allows for usage of unmanaged ai use."
+
 # THREAT SCENARIOS
 
 Employees input sensitive proprietary data into public AI tools, causing irreversible information leakage.
